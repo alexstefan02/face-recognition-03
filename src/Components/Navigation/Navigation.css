@@ -1,0 +1,9 @@
+.hover-effect{
+	margin-right: 15px;
+
+}
+
+.hover-effect:hover{
+	transition: ease-in-out 1s;
+	transform: scale(1.15);
+}
