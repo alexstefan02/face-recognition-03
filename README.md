@@ -1,1 +1,1 @@
-# face-recognition-02
+# face-recognition-app
